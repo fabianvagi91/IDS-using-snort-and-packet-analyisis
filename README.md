@@ -32,6 +32,7 @@ A rule is a specific instruction that defines how to identify and respond to net
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/snort%20library%20install.jpg)
 
 ./configure_cmake.sh is a shell script typically included in the source distribution of the software. It sets up the build environment for CMake. Running this script prepares the configuration files needed for the build process.
+
 --prefix /usr/local/snort  This option specifies the installation directory for the software. By using --prefix, you’re telling the build system to install Snort into the /usr/local/snort directory instead of the default location (which is usually /usr/local or /usr).
 
 
