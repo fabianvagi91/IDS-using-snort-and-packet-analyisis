@@ -27,8 +27,11 @@ The libdaq.git repository typically refers to the Git repository for the libdaq 
 
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/a6fa22d1527dc7727ab508bef581e1efa6875ea2/snort%20communitary%20rules.jpg)
+
 Snort community rules are an essential resource for anyone using Snort as their intrusion detection system. They provide a collaborative and cost-effective way to enhance network security by detecting a wide range of threats.
+
 A rule is a specific instruction that defines how to identify and respond to network traffic.
+
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/snort%20library%20install.jpg)
 
 ./configure_cmake.sh is a shell script typically included in the source distribution of the software. It sets up the build environment for CMake. Running this script prepares the configuration files needed for the build process.
