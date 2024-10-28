@@ -5,19 +5,21 @@ In my third project i wanted to configure and build my own IDS/IPS and i looked 
 Snort its one of the most used IDS/IPS frameworks in the industry.
 
 
+
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/03560447230900fdd7fc42d12d25e5b910c86597/depedencies..jpg)
 
 The First step before installing snort we have to install the dependencies required for snort to run.
-
+First i installed the  libdaq-dev package that is a development library related to the Data Acquisition (DAQ) framework, commonly used for data collection and processing in various applications, including scientific research, engineering, and automation.
+Using sudo install -y i can install multiple packages.
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/hwlocdependency2.jpg)
 
-The First step before installing snort we have to install the dependencies required for snort to run.
-
-
+The hwloc package (short for Hardware Locality) is a library designed for the management and abstraction of hardware resources in a computing environment.
 
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/LauJIT%20dependency.jpg)
+
+
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/LauJIT%20install%20dependency.jpg)
 
@@ -29,7 +31,7 @@ The First step before installing snort we have to install the dependencies requi
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/libdaq%20dependency%20recompilation.jpg)
 
-![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/912772a7c7ce312a238b61470bf658905cb80a0b/hwlocdependency2.jpg)
+
 
 ![alt text](https://github.com/fabianvagi91/IDS-using-snort-and-packet-analyisis/blob/a6fa22d1527dc7727ab508bef581e1efa6875ea2/snort%20communitary%20rules.jpg)
 
